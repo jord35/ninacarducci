@@ -71,6 +71,7 @@ nav .name {
 
 .picture img {
 	width: 100%;
+	height: auto;
 
 }
 
@@ -117,6 +118,7 @@ nav .name {
 }
 
 .nav-pills .nav-link {
+	cursor: pointer;
 	color: #000
 }
 
@@ -266,6 +268,7 @@ input[type="submit"] {
 	background-color: #BEB45A;
 	padding: .5em 1em
 }
+
 
 @media all and (max-width: 1180px) {
 	.picture {
